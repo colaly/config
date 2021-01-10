@@ -15,11 +15,11 @@
         "category": [{
             "show": true,
             "id": 3,
-            "name": "综艺片"
+            "name": "综艺"
         }, {
             "show": true,
             "id": 4,
-            "name": "动漫片"
+            "name": "动漫"
         }, {
             "show": true,
             "id": 5,
@@ -51,15 +51,15 @@
         }, {
             "show": true,
             "id": 12,
-            "name": "国产剧"
+            "name": "国剧"
         }, {
             "show": true,
             "id": 13,
-            "name": "香港剧"
+            "name": "港剧"
         }, {
             "show": true,
             "id": 14,
-            "name": "韩国剧"
+            "name": "韩剧"
         }, {
             "show": true,
             "id": 15,
@@ -71,7 +71,7 @@
         }, {
             "show": true,
             "id": 17,
-            "name": "日本剧"
+            "name": "日剧"
         }, {
             "show": true,
             "id": 18,
@@ -95,7 +95,7 @@
         }, {
             "show": true,
             "id": 23,
-            "name": "国产动漫"
+            "name": "国漫"
         }, {
             "show": true,
             "id": 24,
@@ -144,6 +144,10 @@
             "show": true,
             "id": 36,
             "name": "动漫电影"
+        }, {
+            "show": true,
+            "id": 0,
+            "name": "全部"
         }]
     }, {
         "code": "kk",
@@ -153,11 +157,11 @@
         "category": [{
             "show": true,
             "id": 3,
-            "name": "综艺节目"
+            "name": "综艺"
         }, {
             "show": true,
             "id": 4,
-            "name": "动漫剧场"
+            "name": "动漫"
         }, {
             "show": true,
             "id": 5,
@@ -189,11 +193,11 @@
         }, {
             "show": true,
             "id": 12,
-            "name": "国产剧"
+            "name": "国剧"
         }, {
             "show": true,
             "id": 13,
-            "name": "香港剧"
+            "name": "港剧"
         }, {
             "show": true,
             "id": 14,
@@ -201,7 +205,7 @@
         }, {
             "show": true,
             "id": 15,
-            "name": "日本剧"
+            "name": "日剧"
         }, {
             "show": true,
             "id": 16,
@@ -230,6 +234,10 @@
             "show": false,
             "id": 22,
             "name": "伦理片"
+        }, {
+            "show": true,
+            "id": 0,
+            "name": "全部"
         }]
     }, {
         "code": "zuida",
@@ -247,15 +255,15 @@
         }, {
             "show": true,
             "id": 12,
-            "name": "国产剧"
+            "name": "国剧"
         }, {
             "show": true,
             "id": 13,
-            "name": "香港剧"
+            "name": "港剧"
         }, {
             "show": false,
             "id": 14,
-            "name": "韩国剧"
+            "name": "韩剧"
         }, {
             "show": true,
             "id": 15,
@@ -279,7 +287,7 @@
         }, {
             "show": false,
             "id": 20,
-            "name": "日本剧"
+            "name": "日剧"
         }, {
             "show": false,
             "id": 21,
@@ -291,11 +299,11 @@
         }, {
             "show": true,
             "id": 3,
-            "name": "综艺片"
+            "name": "综艺"
         }, {
             "show": true,
             "id": 4,
-            "name": "动漫片"
+            "name": "动漫"
         }, {
             "show": false,
             "id": 5,
@@ -422,6 +430,10 @@
             "show": true,
             "id": 26,
             "name": "纪录片"
+        }, {
+            "show": true,
+            "id": 0,
+            "name": "全部"
         }]
     }, {
         "code": "xin",
@@ -532,6 +544,10 @@
             "show": true,
             "id": 35,
             "name": "电影说"
+        }, {
+            "show": true,
+            "id": 0,
+            "name": "全部"
         }]
     }, {
         "code": "ali",
@@ -610,6 +626,10 @@
             "show": true,
             "id": 37,
             "name": "日韩动漫"
+        }, {
+            "show": true,
+            "id": 0,
+            "name": "全部"
         }]
     }, {
         "code": "mahua",
@@ -701,7 +721,7 @@
             "id": 42,
             "name": "少儿频道"
         }, {
-            "show": true,
+            "show": false,
             "id": 43,
             "name": "音乐MV"
         }, {
@@ -749,13 +769,17 @@
             "id": 53,
             "name": "欧美倫理"
         }, {
-            "show": true,
+            "show": false,
             "id": 54,
             "name": "海外剧"
         }, {
             "show": false,
             "id": 55,
             "name": "动漫伦理"
+        }, {
+            "show": true,
+            "id": 0,
+            "name": "全部"
         }]
     }, {
         "code": "bj",
@@ -771,27 +795,27 @@
             "id": 4,
             "name": "动漫"
         }, {
-            "show": true,
+            "show": false,
             "id": 5,
             "name": "动作片"
         }, {
-            "show": true,
+            "show": false,
             "id": 6,
             "name": "喜剧片"
         }, {
-            "show": true,
+            "show": false,
             "id": 7,
             "name": "爱情片"
         }, {
-            "show": true,
+            "show": false,
             "id": 8,
             "name": "科幻片"
         }, {
-            "show": true,
+            "show": false,
             "id": 9,
             "name": "恐怖片"
         }, {
-            "show": true,
+            "show": false,
             "id": 10,
             "name": "奇幻片"
         }, {
@@ -823,7 +847,7 @@
             "id": 17,
             "name": "欧美剧"
         }, {
-            "show": true,
+            "show": false,
             "id": 19,
             "name": "微电影"
         }, {
@@ -835,11 +859,11 @@
             "id": 46,
             "name": "VIP福利"
         }, {
-            "show": true,
+            "show": false,
             "id": 47,
             "name": "写真美女"
         }, {
-            "show": true,
+            "show": false,
             "id": 48,
             "name": "展会美女"
         }, {
@@ -855,7 +879,7 @@
             "id": 96,
             "name": "大陆综艺"
         }, {
-            "show": true,
+            "show": false,
             "id": 53,
             "name": "韩国美女 "
         }, {
@@ -879,7 +903,7 @@
             "id": 95,
             "name": "主播美女"
         }, {
-            "show": true,
+            "show": false,
             "id": 99,
             "name": "纪录片"
         }, {
@@ -887,9 +911,13 @@
             "id": 100,
             "name": "动画片"
         }, {
-            "show": true,
+            "show": false,
             "id": 101,
             "name": "战争片"
+        }, {
+            "show": true,
+            "id": 0,
+            "name": "全部"
         }]
     }, {
         "code": "88",
@@ -905,37 +933,37 @@
             "id": 4,
             "name": "动漫"
         }, {
-            "show": true,
+            "show": false,
             "id": 5,
             "name": "动作片"
         }, {
-            "show": true,
+            "show": false,
             "id": 6,
             "name": "喜剧片"
         }, {
-            "show": true,
+            "show": false,
             "id": 7,
             "name": "爱情片"
         }, {
-            "show": true,
+            "show": false,
             "id": 8,
             "name": "科幻片"
         }, {
-            "show": true,
+            "show": false,
             "id": 9,
             "name": "恐怖片"
         }, {
-            "show": true,
+            "show": false,
             "id": 10,
             "name": "剧情片"
         }, {
-            "show": true,
+            "show": false,
             "id": 11,
             "name": "战争片"
         }, {
             "show": true,
             "id": 12,
-            "name": "国产剧"
+            "name": "国剧"
         }, {
             "show": true,
             "id": 13,
@@ -949,7 +977,7 @@
             "id": 15,
             "name": "欧美剧"
         }, {
-            "show": true,
+            "show": false,
             "id": 16,
             "name": "东南亚剧"
         }, {
@@ -965,7 +993,7 @@
             "id": 21,
             "name": "日本动漫"
         }, {
-            "show": true,
+            "show": false,
             "id": 20,
             "name": "纪录片"
         }, {
@@ -981,9 +1009,13 @@
             "id": 24,
             "name": "里番"
         }, {
-            "show": true,
+            "show": false,
             "id": 25,
             "name": "欧美片"
+        }, {
+            "show": true,
+            "id": 0,
+            "name": "全部"
         }]
     }]
 }
